@@ -46,8 +46,8 @@ var expectedFilesInDistDir = [
     'index.html',
 
     'js/',
-        'js/main.js',
-        'js/plugins.js',
+    'js/learnzillaApp.js',
+    'js/appCtrl.js',
         'js/vendor/',
             'js/vendor/jquery-' + pkg.devDependencies.jquery + '.min.js',
             'js/vendor/modernizr-2.8.3.min.js',

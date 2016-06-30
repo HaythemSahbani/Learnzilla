@@ -122,7 +122,7 @@
 
 * Use 32x32 favicon.ico
   ([#1286](https://github.com/h5bp/html5-boilerplate/pull/1286)).
-* Remove named function expression in plugins.js
+* Remove named function expression in appCtrl.js
   ([#1280](https://github.com/h5bp/html5-boilerplate/pull/1280)).
 * Adjust CSS image-replacement code
   ([#1239](https://github.com/h5bp/html5-boilerplate/issues/1239)).

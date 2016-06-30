@@ -26,8 +26,8 @@ A basic HTML5 Boilerplate site initially looks something like this:
 ├── doc
 ├── img
 ├── js
-│   ├── main.js
-│   ├── plugins.js
+│   ├── learnzillaApp.js
+│   ├── appCtrl.js
 │   └── vendor
 │       ├── jquery.min.js
 │       └── modernizr.min.js
