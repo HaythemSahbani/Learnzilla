@@ -1,4 +1,4 @@
-package learnzilla.rest;
+package rest;
 
 public class Greeting {
 
