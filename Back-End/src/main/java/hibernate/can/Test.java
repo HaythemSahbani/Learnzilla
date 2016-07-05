@@ -2,12 +2,13 @@ package hibernate.can;
 
 public class Test {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 
-		//DataManipulation dmobject = new DataManipulation();
 		
-		//dmobject.login("horst","horst");
+		Benutzer benutzer = Benutzer.login("horst","horst");
+		
+		System.out.println("Der Benutzer hat einen Fettigkeitsgrad von " + benutzer.getFettigkeitsgrad());
 	}
 
 }
