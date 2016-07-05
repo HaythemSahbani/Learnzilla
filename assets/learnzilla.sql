@@ -13,7 +13,6 @@ primary key(fragenid)
 CREATE TABLE IF NOT EXISTS Antworten
 ( antwortenid int NOT NULL auto_increment,
 antwort varchar(200) NOT NULL,
-fk_kategorie int NOT null,
 primary key(antwortenid)
 );
 
